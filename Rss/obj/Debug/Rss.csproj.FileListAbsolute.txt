@@ -1,0 +1,10 @@
+C:\Users\Batı\source\repos\Rss\Rss\bin\Debug\Rss.exe.config
+C:\Users\Batı\source\repos\Rss\Rss\bin\Debug\Rss.exe
+C:\Users\Batı\source\repos\Rss\Rss\bin\Debug\Rss.pdb
+C:\Users\Batı\source\repos\Rss\Rss\obj\Debug\Rss.csprojAssemblyReference.cache
+C:\Users\Batı\source\repos\Rss\Rss\obj\Debug\Rss.Form1.resources
+C:\Users\Batı\source\repos\Rss\Rss\obj\Debug\Rss.Properties.Resources.resources
+C:\Users\Batı\source\repos\Rss\Rss\obj\Debug\Rss.csproj.GenerateResource.cache
+C:\Users\Batı\source\repos\Rss\Rss\obj\Debug\Rss.csproj.CoreCompileInputs.cache
+C:\Users\Batı\source\repos\Rss\Rss\obj\Debug\Rss.exe
+C:\Users\Batı\source\repos\Rss\Rss\obj\Debug\Rss.pdb
